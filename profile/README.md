@@ -1,5 +1,6 @@
 # How Train Ambulances from Patna Make Rural Healthcare Accessible
 
+![Alt text](https://github.com/Train-Ambulance/.github/blob/651febdc404deaca22c08a078e1f1417878be3f5/train%20ambulance.png)
 In rural Bihar, reaching a hospital with advanced medical care often feels like a race against time. Poor road conditions, limited ICU facilities, and long distances to metro hospitals make emergency transfers a nightmare for families. Many patients lose precious hours — and sometimes their lives — simply because they can’t get timely treatment.
 
 That’s where [**Train Ambulance Service in Patna**](https://trainambulance.in/patna.html) is changing the game. Acting as a lifeline for patients from remote areas, these services are ensuring that distance no longer decides a patient’s fate.
